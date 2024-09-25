@@ -1,3 +1,3 @@
 ### Hey! 👋
 
-Mechatronics engineer🤖, software developer👾.
+Software engineer🤖
